@@ -9,6 +9,7 @@
 
 ---
 
+### 🔗 Profiles  
 <p align="center">
   <a href="https://linkedin.com/in/shaik-arshad-ahmed" target="blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/>
@@ -21,13 +22,17 @@
   </a>
 </p>
 
-
-
 ---
 
-### 🛠 Languages & Tools  
+### 🛠 Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,python,git,github" width="250"/>
+</p>
+
+
+<p align="center">
+  <img src="https://media.tenor.com/6JptszQgCnkAAAAj/text-work.gif" alt="Coding Guy" width="300"/>
+  <br><b>I love to code!</b>
 </p>
 
 ---
