@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arshad</h1>
 <h3 align="center">DS/ALGO | Java | Python | Data Science</h3>
 
-- I’m currently learning: **Python, Data Science**
+- I’m currently learning: **Python, Data Science, Java, DS/ALGO**
 
-- Reach me: **shaik.arshad.dev@gmail.com**
+- Reach out: **shaik.arshad.dev@gmail.com**
 
 - Fun fact: **I think I’m the GOAT 🐐**
 
