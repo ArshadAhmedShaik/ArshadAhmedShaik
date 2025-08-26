@@ -19,5 +19,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arshadahmedshaik&show_icons=true&locale=en&layout=compact" alt="arshadahmedshaik" /></p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=arshadahmedshaik&theme=dark&hide_border=true" alt="arshadahmedshaik" />
+  <img src="https://streak-stats.demolab.com?user=ArshadAhmedShaik&theme=dark&hide_border=true" alt="ArshadAhmedShaik" />
 </p>
