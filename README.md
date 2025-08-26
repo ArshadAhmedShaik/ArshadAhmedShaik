@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arshad</h1>
+<h1 align="center">Hi 👋, I'm Arshad!</h1>
 <h3 align="center">💻 DS/ALGO | ☕ Java | 🐍 Python | 📊 Data Science</h3>
 
 ---
