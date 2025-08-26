@@ -1,22 +1,36 @@
 <h1 align="center">Hi 👋, I'm Arshad</h1>
-<h3 align="center">DS/ALGO | Java | Python | Data Science</h3>
+<h3 align="center">💻 DS/ALGO | ☕ Java | 🐍 Python | 📊 Data Science</h3>
 
-- I’m currently learning: **Python, Data Science, Java, DS/ALGO**
+---
 
-- Reach out: **shaik.arshad.dev@gmail.com**
-
+### 🌱 About Me  
+- Currently learning: **Python, Data Science, Java, DS/ALGO**  
+- Reach me at: **shaik.arshad.dev@gmail.com**  
 - Fun fact: **I think I’m the GOAT 🐐**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shaik-arshad-ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaik-arshad-ahmed" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shaikarshad2707" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shaikarshad2707" height="30" width="40" /></a>
+---
+
+### 🌐 Connect with Me  
+<p align="center">
+  <a href="https://linkedin.com/in/shaik-arshad-ahmed" target="blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/>
+  </a>
+  <a href="https://leetcode.com/shaikarshad2707" target="blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="40"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
+### 🛠 Languages & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,git,github" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arshadahmedshaik&show_icons=true&locale=en&layout=compact" alt="arshadahmedshaik" /></p>
+---
 
-
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArshadAhmedShaik&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshadAhmedShaik&layout=compact&theme=tokyonight&hide_border=true" alt="langs" height="160"/>
+</p>
