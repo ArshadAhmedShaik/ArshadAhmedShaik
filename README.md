@@ -9,19 +9,18 @@
 
 ---
 
-### 🌐 Connect with Me  
 <p align="center">
   <a href="https://linkedin.com/in/shaik-arshad-ahmed" target="blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/>
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:shaik.arshad.dev@gmail.com" target="blank">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="40"/>
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/shaikarshad2707" target="blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="40"/>
   </a>
-  
 </p>
+
 
 
 ---
