@@ -29,7 +29,6 @@
   <img src="https://skillicons.dev/icons?i=java,python,git,github" width="250"/>
 </p>
 
-
 <p align="center">
   <img src="https://media.tenor.com/6JptszQgCnkAAAAj/text-work.gif" alt="Coding Guy" width="300"/>
   <br><b>I love to code!</b>
@@ -39,6 +38,11 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArshadAhmedShaik&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshadAhmedShaik&layout=compact&theme=tokyonight&hide_border=true" alt="langs" height="160"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArshadAhmedShaik&theme=tokyonight" alt="GitHub Stats" height="160"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArshadAhmedShaik&theme=tokyonight" alt="Top Languages" height="160"/>
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArshadAhmedShaik&theme=tokyonight" alt="Most Used Languages" height="160"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArshadAhmedShaik&theme=tokyonight" alt="Commit Times" height="160"/>
 </p>
