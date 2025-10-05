@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Arshad!</h1>
-<h3 align="center">💻 DS/ALGO | ☕ Java | 🐍 Python | 📊 Data Science</h3>
+<h3 align="center">💻 DS/ALGO | ☕ Java</h3>
 
 ---
 
 ### 🌱 About Me  
-- Currently learning: **Python, Data Science, Java, DS/ALGO**  
+- Currently learning: **Java, DS/ALGO**  
 - Reach me at: **shaik.arshad.dev@gmail.com**  
 
 ---
@@ -26,13 +26,9 @@
 
 ### 🛠 Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,git,github" width="250"/>
+  <img src="https://skillicons.dev/icons?i=java,git,github" width="250"/>
 </p>
 
-<p align="center">
-  <img src="https://media.tenor.com/6JptszQgCnkAAAAj/text-work.gif" alt="Coding Guy" width="300"/>
-  <br><b>I love to code!</b>
-</p>
 
 ---
 
