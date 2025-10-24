@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Arshad!</h1>
-<h3 align="center">💻 DS/ALGO | ☕ Java</h3>
+<h3 align="center">💻 DS/ALGO | WebDev</h3>
 
 ---
 
 ### 🌱 About Me  
-- Currently learning: **Java, DS/ALGO**  
+- Currently learning: **Java, DS/ALGO, WevDev**  
 - Reach me at: **shaik.arshad.dev@gmail.com**  
 
 ---
