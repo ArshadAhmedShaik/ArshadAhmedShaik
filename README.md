@@ -26,9 +26,8 @@
 
 ### 🛠 Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,git,github" width="250"/>
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,git,github" width="350"/>
 </p>
-
 
 ---
 
