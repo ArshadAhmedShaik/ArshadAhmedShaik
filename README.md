@@ -32,12 +32,4 @@
 ---
 
 ### 📊 GitHub Stats  
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArshadAhmedShaik&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArshadAhmedShaik&theme=tokyonight" alt="Top Languages" height="160"/>
-</p>
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArshadAhmedShaik&theme=tokyonight" alt="Most Used Languages" height="160"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ArshadAhmedShaik&theme=tokyonight" alt="Commit Times" height="160"/>
-</p>
