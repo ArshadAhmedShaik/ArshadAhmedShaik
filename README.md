@@ -4,7 +4,7 @@
 ---
 
 ### 🌱 About Me  
-- Currently learning: **Java, DS/ALGO, WevDev**  
+- Currently learning: **JavaScript, DS/ALGO, WevDev**  
 - Reach me at: **shaik.arshad.dev@gmail.com**  
 
 ---
