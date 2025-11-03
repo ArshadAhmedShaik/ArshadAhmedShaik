@@ -24,11 +24,12 @@ Currently learning: JavaScript, DS/ALGO, Web Development
 ![Git Bash](https://img.shields.io/badge/Git%20Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Terminal](https://img.shields.io/badge/Terminal-%23000000.svg?style=for-the-badge&logo=windowsterminal&logoColor=white)
 
+# 📊 Most Used Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arshadahmedshaik&layout=compact&theme=dark&hide_border=false)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=arshadahmedshaik&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=arshadahmedshaik&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
