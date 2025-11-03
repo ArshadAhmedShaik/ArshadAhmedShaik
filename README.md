@@ -8,7 +8,7 @@ Currently learning: JavaScript, DS/ALGO, Web Development
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaik-arshad-ahmed/)  
 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -26,11 +26,22 @@ Currently learning: JavaScript, DS/ALGO, Web Development
 ![Git Bash](https://img.shields.io/badge/Git%20Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Terminal](https://img.shields.io/badge/Terminal-%23000000.svg?style=for-the-badge&logo=windowsterminal&logoColor=white)
 
-# 📊 Most Used Languages:
+### 📊 Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arshadahmedshaik&layout=compact&theme=dark&hide_border=false)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=arshadahmedshaik&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### 📈 Streak
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=ArshadAhmedShaik&theme=dark&hide_border=true)<br/>
+
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ArshadAhmedShaik&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+
 
 
 
