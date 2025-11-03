@@ -1,4 +1,6 @@
 # 💫 About Me:
+
+### Hey 👋, I'm Arshad! I'm an aspiring Full Stack Web developer and AI enthusiast.
 Currently learning: JavaScript, DS/ALGO, Web Development  
 
 
