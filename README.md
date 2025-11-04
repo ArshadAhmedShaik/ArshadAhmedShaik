@@ -32,10 +32,6 @@ Currently learning: JavaScript, DS/ALGO, Web Development
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=arshadahmedshaik&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 📈 Streak
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=ArshadAhmedShaik&theme=dark&hide_border=true)<br/>
-
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ArshadAhmedShaik&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
