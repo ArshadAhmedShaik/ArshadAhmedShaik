@@ -31,8 +31,6 @@ Currently learning: JavaScript, DS/ALGO, Web Development
 
 ![](https://github-readme-stats.vercel.app/api?username=ArshadAhmedShaik&theme=dark&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ArshadAhmedShaik&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArshadAhmedShaik&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
 
 ### 📊 Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arshadahmedshaik&layout=compact&theme=dark&hide_border=false)
