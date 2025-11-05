@@ -26,6 +26,13 @@ Currently learning: JavaScript, DS/ALGO, Web Development
 ![Git Bash](https://img.shields.io/badge/Git%20Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Terminal](https://img.shields.io/badge/Terminal-%23000000.svg?style=for-the-badge&logo=windowsterminal&logoColor=white)
 
+### 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=ArshadAhmedShaik&theme=dark&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ArshadAhmedShaik&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArshadAhmedShaik&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+
 ### 📊 Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arshadahmedshaik&layout=compact&theme=dark&hide_border=false)
 
