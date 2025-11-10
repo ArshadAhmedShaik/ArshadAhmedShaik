@@ -26,6 +26,9 @@ Currently learning: JavaScript, DS/ALGO, Web Development
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git Bash](https://img.shields.io/badge/Git%20Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Terminal](https://img.shields.io/badge/Terminal-%23000000.svg?style=for-the-badge&logo=windowsterminal&logoColor=white)
+![SQL Workbench](https://img.shields.io/badge/SQL%20Workbench-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Faker (npm)](https://img.shields.io/badge/Faker-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+
 
 ### 📊 GitHub Stats:
 
