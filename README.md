@@ -9,17 +9,36 @@ Currently learning: JavaScript, DS/ALGO, Web Development
 
 
 ## 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![REST API](https://img.shields.io/badge/REST%20API-%23007396.svg?style=for-the-badge&logo=fastapi&logoColor=white) ![EJS](https://img.shields.io/badge/EJS-%23404d59.svg?style=for-the-badge&logo=ejs&logoColor=%23F7DF1E) ![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git Bash](https://img.shields.io/badge/Git%20Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Terminal](https://img.shields.io/badge/Terminal-%23000000.svg?style=for-the-badge&logo=windowsterminal&logoColor=white) ![SQL Workbench](https://img.shields.io/badge/SQL%20Workbench-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Faker (npm)](https://img.shields.io/badge/Faker-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+![REST API](https://img.shields.io/badge/REST%20API-%23007396.svg?style=for-the-badge&logo=fastapi&logoColor=white) 
+![EJS](https://img.shields.io/badge/EJS-%23404d59.svg?style=for-the-badge&logo=ejs&logoColor=%23F7DF1E) 
+![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Git Bash](https://img.shields.io/badge/Git%20Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
+![Terminal](https://img.shields.io/badge/Terminal-%23000000.svg?style=for-the-badge&logo=windowsterminal&logoColor=white) 
+![SQL Workbench](https://img.shields.io/badge/SQL%20Workbench-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Faker (npm)](https://img.shields.io/badge/Faker-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
+
 
 
 
 ### 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=ArshadAhmedShaik&theme=dark&include_all_commits=true&count_private=true)
 
-![](https://github-readme-stats.vercel.app/api?username=ArshadAhmedShaik&theme=dark&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ArshadAhmedShaik&theme=dark&hide_border=true)<br/>
 
 ### 📊 Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arshadahmedshaik&layout=compact&theme=dark&hide_border=false)
+![My languages](https://github-stats-evirunurm.vercel.app/api/languages.js?username=arshadahmedshaik)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=arshadahmedshaik&limit=5&theme=dark&combine_all_yearly_contributions=true)
